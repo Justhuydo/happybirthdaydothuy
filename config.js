@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh biết mà🥰 Sinh nhật anh chúc em luôn thành công trong cuộc sống',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/namec.nw'
+    
 }
